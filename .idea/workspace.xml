@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a423df9d-49fa-4a09-90f3-0d50a6b20089" name="Changes" comment="коммит" />
+    <list default="true" id="a423df9d-49fa-4a09-90f3-0d50a6b20089" name="Changes" comment="коммит">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BurgerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BurgerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/IngredientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/IngredientTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,10 +53,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Professional/Diplom/QA-java-diplom-1"
+    "last_opened_file_path": "C:/Users/Professional/Diplom/QA-java-diplom-1",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.BurgerTest">
+  <component name="RunManager" selected="JUnit.IngredientTest">
     <configuration name="BunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="praktikum" />
       <option name="PACKAGE_NAME" value="" />
@@ -138,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671042753192</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="коммит">
+      <created>1671044541185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671044541185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

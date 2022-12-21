@@ -17,7 +17,6 @@ public class BurgerReceiptParamTest {
     @Mock
     Ingredient ingredient;
 
-
     @Before
     public void init() {
         MockitoAnnotations.initMocks(this);

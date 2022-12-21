@@ -4,7 +4,6 @@ import org.junit.Test;
 import praktikum.Bun;
 
 public class BunTest {
-    Bun bun;
 
     @Test
     public void getNameNotNull(){

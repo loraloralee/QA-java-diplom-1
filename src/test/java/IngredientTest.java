@@ -1,16 +1,11 @@
-
 import org.junit.Assert;
 import org.junit.Test;
-
 import praktikum.Ingredient;
 import praktikum.IngredientType;
-
-
 import static praktikum.IngredientType.FILLING;
 
 public class IngredientTest {
 
-    Ingredient ingredient;
 
     @Test
     public void getPriceTest(){
